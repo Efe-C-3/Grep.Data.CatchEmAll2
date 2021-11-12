@@ -19,23 +19,13 @@ squirtle in the filescan_00.4
 
 
 
-
-
-
-
-
-
-
-
 # Part 2
 ### a)
-
-
-
-
+ls | wc -l 
 
 
 ### b)
+wc -l *.txt
 
 
 
